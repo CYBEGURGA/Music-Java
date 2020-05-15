@@ -1,13 +1,13 @@
-﻿token = tokeni botaka
-owner = id xot lera dabne
+token = NzEwNjcwOTEwMTIxODM2NTc0.Xr35uw.3ssczhCcGvOgA_jX0c5v3_-P1Kw
+owner = 537489317787074564
 
 
 
-prefix = "/"
+prefix = "."
 
 
 
-game = "DEFAULT"
+game = "hello test music"
 
 
 
