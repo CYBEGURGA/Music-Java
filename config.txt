@@ -1,13 +1,13 @@
-token = NzEwNjcwOTEwMTIxODM2NTc0.Xr35uw.3ssczhCcGvOgA_jX0c5v3_-P1Kw
-owner = 537489317787074564
+token = token lera dabne
+owner = id xot
 
 
 
-prefix = "."
+prefix = "!"
 
 
 
-game = "hello test music"
+game = "shtek bnusa bo playing"
 
 
 
